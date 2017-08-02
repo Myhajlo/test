@@ -1,0 +1,1 @@
+select len(name) from tb where nomer = 1
